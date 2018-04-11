@@ -5,7 +5,7 @@
 * Plugin URI: #
 * Author:sujan
 * Author URI:www.facebook.com/sujan1miya.com
-* Description: Get castomer information.
+* Description: Get customar information.
 * version:1.0.0
 */
 
